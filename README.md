@@ -4,7 +4,7 @@
 This is a **Real-Time Chat Application** built using **PHP** and **MySQL**, completed as **Task 4** of my internship at **Prodigy Infotech**.
 
 
-
+ChatApp/Preview/image-1.png
 ---
 
 ## 🔥 Features
