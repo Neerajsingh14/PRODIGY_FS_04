@@ -28,5 +28,3 @@ This is a **Real-Time Chat Application** built using **PHP** and **MySQL**, comp
 
 ---
 
-## 📂 Project Structure
-
