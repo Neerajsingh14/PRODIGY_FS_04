@@ -24,7 +24,6 @@ This is a **Real-Time Chat Application** built using **PHP** and **MySQL**, comp
 | Frontend   | HTML, CSS, JavaScript |
 | Backend    | PHP                   |
 | Database   | MySQL (Workbench)     |
-| Hosting    | InfinityFree (Free PHP Hosting) |
 
 ---
 
